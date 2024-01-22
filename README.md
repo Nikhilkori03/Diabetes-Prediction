@@ -51,15 +51,15 @@ The user interface, structured with HTML, ensures a seamless and intuitive inter
 
 ## HOME PAGE:
 
-![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/HOME%20PAGE.png?raw=true"
+![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/HOME%20PAGE.png?raw=true)
 
 ## FORM PAGE:
 
-![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/FORM.png?raw=true"
+![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/FORM.png?raw=true)
 
 ### RESULT PAGE:
 
-![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/Result.png?raw=true"
+![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/Result.png?raw=true)
 
 ## Dataset Constraints:
 Several constraints were methodically imposed during the selection of instances from a larger database. In particular, the dataset comprises exclusively female patients, all of Pima Indian heritage, and who are at least 21 years old. These constraints aim to tailor the analysis to a specific demographic for more targeted and meaningful insights.
