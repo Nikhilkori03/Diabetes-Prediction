@@ -1,7 +1,7 @@
 # Diabetes-Prediction-Using-Machine-Learning
 
 <p align="center">
-  <img width="700" height="170" src="https://github.com/Nikhilkori03/Sala-Data-Analysis/assets/152955475/9689cfc3-e2be-4447-9389-e3613166dc30">
+  <img width="700" height="170" src="https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/maxresdefault.jpg?raw=true">
 </p>
 
 ## Links:
@@ -51,13 +51,15 @@ The user interface, structured with HTML, ensures a seamless and intuitive inter
 
 ## HOME PAGE:
 
+![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/HOME%20PAGE.png?raw=true"
+
 ## FORM PAGE:
 
-![HR Dashboard ](https://github.com/Nikhilkori03/Sala-Data-Analysis/blob/main/Dashboard.png?raw=true)
+![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/FORM.png?raw=true"
 
 ### RESULT PAGE:
 
-https://github.com/Nikhilkori03/Data-analyst/assets/152955475/2432ba22-90c2-4a3e-bf7a-cfa85ada34a1.mp4
+![]"https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/Result.png?raw=true"
 
 ## Dataset Constraints:
 Several constraints were methodically imposed during the selection of instances from a larger database. In particular, the dataset comprises exclusively female patients, all of Pima Indian heritage, and who are at least 21 years old. These constraints aim to tailor the analysis to a specific demographic for more targeted and meaningful insights.
