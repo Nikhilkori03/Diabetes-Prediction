@@ -9,6 +9,8 @@ Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/nikhil-kori-31664a2a3/) 🌐
 
+[Go to my Dashboard](https://www.novypro.com/project/sales-analysis-dashboard-50)
+
 ## PROJECT NAME:
 
 #### Diabetes Prediction - Predict if a person has diabetes or not using ML.
